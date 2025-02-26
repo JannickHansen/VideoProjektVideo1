@@ -24,11 +24,11 @@
 -   Video link:                 https://youtu.be/_SEtJOwCbM8
 
 ##### Video 2
--   Program ved start af video: 
+-   Video link:                 
 
 ##### Video 3
--   Program ved start af video: 
--   SQL Script:                 
+-   Video link:                 
+-   Link til SQL Script:                 
 
 ##### Video 4
 
