@@ -16,10 +16,11 @@
 
 ### **Links**
 
-- Link til færdige projekt:     
+- Link til færdige projekt:     https://github.com/JannickHansen/VideoprojektMain
 
 ##### Video 1
--   index.html og style.css:    
+-   index.html og style.css:    https://github.com/JannickHansen/VideoProjektVideo1
+-   Video link:                 https://youtu.be/_SEtJOwCbM8
 
 ##### Video 2
 -   Program ved start af video: 
@@ -63,3 +64,9 @@
 
 **@Table**
 -   Specificerer database-tabellen, som en entity skal kortlægges til.
+
+Interface
+-   Et interface er en opskrift, som beskriver hvilke funktioner og metoder en klasse skal have.
+    Det indeholder dog ikke selv nogen kode eller data.
+    Når du bruger interfacet i Spring, anvender Spring automatisk en skjult klasse, som indeholder koden og attributterne.
+    Interfacet selv indeholder kun metodernes navne og parametre.
