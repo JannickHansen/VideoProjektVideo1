@@ -12,6 +12,7 @@
 #####  - Ordliste
 
    - annoteringer
+   - Andre ord
 
 
 ### **Links**
@@ -64,6 +65,9 @@
 
 **@Table**
 -   Specificerer database-tabellen, som en entity skal kortlægges til.
+
+
+### **Andre ord**
 
 Interface
 -   Et interface er en opskrift, som beskriver hvilke funktioner og metoder en klasse skal have.
