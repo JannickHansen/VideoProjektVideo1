@@ -11,23 +11,23 @@
  
 #####  - Ordliste
 
-   - annoteringer
+   - Annoteringer
    - Andre ord
 
 
 ### **Links**
 
+- Link til Ressourcer:          https://github.com/JannickHansen/VideoProjektVideo1
 - Link til færdige projekt:     https://github.com/JannickHansen/VideoprojektMain
 
 ##### Video 1
--   index.html og style.css:    https://github.com/JannickHansen/VideoProjektVideo1
 -   Video link:                 https://youtu.be/_SEtJOwCbM8
 
 ##### Video 2
--   Video link:                 
+-   Video link:                 https://youtu.be/llU4Pq2z2as
 
 ##### Video 3
--   Video link:                 
+-   Video link:                 https://youtu.be/sJ2xTJ4SmfY
 -   Link til SQL Script:        https://github.com/JannickHansen/VideoProjektVideo1/blob/main/databaseScript.sql
 
 ##### Video 4
@@ -66,11 +66,14 @@
 **@Table**
 -   Specificerer database-tabellen, som en entity skal kortlægges til.
 
+##### **Andre ord**
 
-### **Andre ord**
-
-Interface
+**Interface**
 -   Et interface er en opskrift, som beskriver hvilke funktioner og metoder en klasse skal have.
     Det indeholder dog ikke selv nogen kode eller data.
     Når du bruger interfacet i Spring, anvender Spring automatisk en skjult klasse, som indeholder koden og attributterne.
     Interfacet selv indeholder kun metodernes navne og parametre.
+
+**Endpoint**
+-   Et specifikt URL, hvor en applikation kan modtage HTTP-anmodninger og returnere svar.
+    De defineres typisk i en controller-klasse ved hjælp af annoteringer som @GetMapping, @PostMapping og lignende.
