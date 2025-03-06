@@ -13,7 +13,7 @@ CREATE TABLE cars (
                       colour VARCHAR(50) NOT NULL,
                       licenseplate VARCHAR(50) NOT NULL,
                       img VARCHAR(255)
-)
+);
 
 
 -- Dummy data, Det er de samme objekter som bruges i InitData.
