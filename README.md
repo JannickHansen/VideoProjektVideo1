@@ -22,12 +22,13 @@
 
 ##### Video 1
 -   Video link:                 https://youtu.be/_SEtJOwCbM8
+-   Link til Billeder:          https://github.com/JannickHansen/VideoProjektVideo1/tree/main/img
 
 ##### Video 2
 -   Video link:                 https://youtu.be/llU4Pq2z2as
 
 ##### Video 3
--   Video link:                 https://youtu.be/sJ2xTJ4SmfY
+-   Video link:                 https://youtu.be/XKZVN45NGsI
 -   Link til SQL Script:        https://github.com/JannickHansen/VideoProjektVideo1/blob/main/databaseScript.sql
 
 ##### Video 4
@@ -66,7 +67,7 @@
 **@Table**
 -   Specificerer database-tabellen, som en entity skal kortlægges til.
 
-### **Andre ord**
+##### **Andre ord**
 
 **Interface**
 -   Et interface er en opskrift, som beskriver hvilke funktioner og metoder en klasse skal have.
