@@ -8,6 +8,7 @@
    - Video 1
    - Video 2
    - Video 3
+   - Video 4
  
 #####  - Ordliste
 
@@ -32,6 +33,7 @@
 -   Link til SQL Script:        https://github.com/JannickHansen/VideoProjektVideo1/blob/main/databaseScript.sql
 
 ##### Video 4
+-   Video link:                 https://youtu.be/BGQiaC7X0Ro
 
 ### **Annoteringer**
 
@@ -78,3 +80,13 @@
 **Endpoint**
 -   Et specifikt URL, hvor en applikation kan modtage HTTP-anmodninger og returnere svar.
     De defineres typisk i en controller-klasse ved hjælp af annoteringer som @GetMapping, @PostMapping og lignende.
+
+**PreparedStatement**
+-   En prækomplieret SQL-forespørgsel, der kan genbruges med forskellige paremetre, hvilket gør den mere sikker og effektiv.
+
+**Statement**
+-   Et statement som udføres uden prækompilering. Det er altså mere sårbart overfor SQL injections.
+
+**SQL Injection**
+-   En sikkerhedssårbarhed, hvor man indsætter SQL-kode direkte ind i et input-felt, som f.eks. "Indtast Email:", hvor dette SQL-kode så kan skade databasen.
+    PreparedStatement blev lavet til blandt andet at gøre dette svære.
